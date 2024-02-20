@@ -3,7 +3,7 @@ title: "Integrate Postman with APIMatic"
 updated: 2022-02-11
 ---
 
-Postman's APIMatic integration converts a Postman Collection into an API description format such as Swagger, RAML, or API Blueprint, and then periodically backs up the resulting file on GitHub.
+Postman's APIMatic integration converts a Postman Collection into an API description format such as OpenAPI, Swagger, RAML, or API Blueprint, and then periodically backs up the resulting file on GitHub.
 
 ## Contents
 
